@@ -4,10 +4,10 @@ of the structure of the code from https://github.com/sleonardokap/cosmological_d
 
 
 
-LCDM : Here I estimated the parameters Omega_m and Hubble parameter for Lambda CDM model with using Baryon Acoustic Oscillation of SDSS and DESI, Cosmic Chronometer and Type-IA supernovae data from Dark Energy Survey.
+LCDM : Here I estimated the parameters Omega_m and Hubble parameter for Lambda CDM model with using Baryon Acoustic Oscillation of SDSS and DESI, Cosmic Chronometer(CC) and Type-IA supernovae data from Dark Energy Survey(DES).
 
 
-Supernovae: Here, 
+Supernovae: Here, for light curve analysis I have taken DES 3YR datasets in the BRICS capstone project. In another ipynb file I have taken DES-Dovekie updated datasets to constraint Omega_m and equation of state parameters.
 
 
 

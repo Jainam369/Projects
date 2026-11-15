@@ -7,4 +7,7 @@ of the structure of the code from https://github.com/sleonardokap/cosmological_d
 LCDM : Here I estimated the parameters Omega_m and Hubble parameter for Lambda CDM model with using Baryon Acoustic Oscillation of SDSS and DESI, Cosmic Chronometer and Type-IA supernovae data from Dark Energy Survey.
 
 
+Supernovae: Here, 
+
+
 
